@@ -16,7 +16,7 @@ flutter pub add --dev flutter_lints_ymadd
 pubspec.yaml:
 ```yaml
 dev_dependencies:
-    flutter_lints_ymadd
+    flutter_lints_ymadd:
 ```
 
 ### 2. Create `analysis_options.yaml`
