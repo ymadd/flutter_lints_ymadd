@@ -20,4 +20,5 @@ dev_dependencies:
 ```
 
 ### 2. Create `analysis_options.yaml`
-Create an `analysis_options.yaml` file at the root of the package (alongside the `pubspec.yaml` file) and `include: package:flutter_lints_ymadd/analysis_options.yaml` from it.
+Create an `analysis_options.yaml` file at the root of the package (alongside the `pubspec.yaml` file) 
+and `include: package:flutter_lints_ymadd/analysis_options.yaml` from it.
