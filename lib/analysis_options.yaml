@@ -1,5 +1,10 @@
 include: package:flutter_lints/flutter.yaml
 
+analyzer:
+  strong-mode:
+    implicit-casts: false
+  errors:
+    todo: ignore
 linter:
   rules:
      # error rules
