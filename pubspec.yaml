@@ -1,6 +1,6 @@
 name: flutter_lints_ymadd
 description: Recommended lint rule set for encourage better coding practice.
-version: 1.1.0
+version: 1.2.0
 homepage: https://github.com/ymadd/flutter_lints_ymadd
 
 environment:
