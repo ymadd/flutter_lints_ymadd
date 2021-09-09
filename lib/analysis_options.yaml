@@ -5,6 +5,11 @@ analyzer:
     implicit-casts: false
   errors:
     todo: ignore
+    always_use_package_imports: error
+    avoid_returning_null_for_future: error
+    cancel_subscriptions: warning
+    missing_required_param: warning
+    missing_return: warning
 linter:
   rules:
      # error rules
