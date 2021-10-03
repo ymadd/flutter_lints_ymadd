@@ -10,6 +10,11 @@ analyzer:
     cancel_subscriptions: warning
     missing_required_param: warning
     missing_return: warning
+  language:
+    strict-inference: true
+    strict-raw-types: true
+  exclude:
+    - lib/generated_plugin_registrant.dart
 linter:
   rules:
      # error rules

@@ -1,3 +1,7 @@
+## 1.3.0
+- Add `strict-inference: true`
+- Add `strict-raw-types: true`
+- Add `exclude: lib/generated_plugin_registrant.dart`
 ## 1.2.0
 - Add `always_use_package_imports: error`
 - Add `avoid_returning_null_for_future: error`
